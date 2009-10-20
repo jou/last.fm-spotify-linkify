@@ -1,0 +1,26 @@
+# What?
+
+Little Greasemonkey/Greasekit script that adds little [Spotify][] links (that fires a search) to music links in [last.fm][].
+
+[Spotify]: http://www.spotify.com/
+[last.fm]: http://www.last.fm/
+
+# Why?
+
+Because Spotify's music browsing sucks. Also, I can listen to last.fm recommendations in Spotify that way.
+
+# What do you need?
+
+Some way to run user scripts. Either
+
+*	[Greasemonkey][], if you're using Firefox
+*	[GreaseKit][], if you're on Safari (not recommended since it's very hacky to get plugins run in Safari)
+*	Use [Fluid.app][] to create a site-specific browser for last.fm
+	
+[Greasemonkey]: http://www.greasespot.net/
+[GreaseKit]: http://8-p.info/greasekit/
+[Fluid.app]: http://fluidapp.com/
+
+# What's left to do?
+
+It only support artist links so far. Need to add that little icon to album 
